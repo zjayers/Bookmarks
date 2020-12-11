@@ -1,8 +1,8 @@
 # Bookmarks
-[![GitHub Release](https://img.shields.io/github/release/zjayers/Bookmarks.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/Bookmarks.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/Bookmarks.svg?style=flat)](https://github.com/zjayers/Bookmarks/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/Bookmarks.svg?style=flat)](https://github.com/zjayers/Bookmarks/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/Bookmarks.svg?maxAge=25000)](https://github.com/zjayers/Bookmarks/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/Bookmarks/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/Bookmarks/blob/master/LICENSE)
 
 ## Description
 
